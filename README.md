@@ -45,3 +45,18 @@ git reset --hard
 ```
 git status -s
 ```
+
+# PARTIE 4 : Collaboration sur Git
+
+## Question 4 
+
+```
+git branch -a
+```
+
+
+## Question 5
+
+```
+git branch -d test
+```
